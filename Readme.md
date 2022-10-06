@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angpysha&" alt="angpysha" /></p>
 
-<p> <img src="https://angpyshacurrentplayinglastfm.azurewebsites.net/LastFm/current-svg" align="center"/> </p>
+<p>  </p>

@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angpysha&show_icons=true&locale=en" alt="angpysha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=angpysha&" alt="angpysha" /></p>
+
+<p> <img src="https://angpyshacurrentplayinglastfm.azurewebsites.net/LastFm/current-svg" align="center"/> </p>

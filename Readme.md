@@ -1,11 +1,11 @@
 <p><a href="https://savelife.in.ua/en/" target="_blank"> <img src="16397.jpg"/> </a> </p>
 
 <h1 align="center">Hi 👋, I'm Andrii Petrovskyi</h1>
-<h3 align="center">A .NET/Xamarin developer from Ukraine</h3>
+<h3 align="center">A .NET/Xamarin developer from Ukraine :ukraine:</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angpysha" alt="angpysha" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, dart**
+- 🌱 I’m currently learning **Flutter, Dart**
 
 - 💬 Ask me about **Xamarin/MAUI**
 
